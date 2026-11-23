@@ -40,9 +40,11 @@ This site follows the EU's General Data Protection Regulation (GDPR) as its stan
 
 The legal basis for the chat is legitimate interest: running a small site that answers questions from published writing. The legal basis for a note is your consent: you choose to leave one.
 
-## Children
+## Ƙasa da shekara 18
 
-This site is not aimed at children. If you are under 16, please ask a parent or guardian before writing anything here.
+Wannan shafin ba don mutanen da ke ƙasa da shekara 18 ba ne. Yana magana ne game da bangaskiya ga Yesu, kuma wannan abun ciki ne na addini, don haka an rubuta shi don manya. Idan kana ƙasa da shekara 18, don Allah kar ka raba bayanan sirri a nan, kuma kar ka rubuta wa Jonathan.
+
+A Spain, doka ta ce yaro da ke ƙasa da shekara 14 yana buƙatar yardar iyaye ko mai kula kafin ya raba bayanan sirri a yanar gizo. Dokar wannan shafin ta fi haka tsauri: idan kana ƙasa da shekara 18, wannan shafin ba don kai ba ne.
 
 ## Changes
 
