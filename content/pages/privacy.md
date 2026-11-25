@@ -6,7 +6,7 @@ original_url: https://jonathanmccallum.com/privacy/
 
 # Sirri
 
-Jonathan McCallum ne ke tafiyar da wannan shafin, yana zaune a Getaria, Spain. Karamin shafi ne na kansa: rubuce-rubuce, da kuma hira da ke amsa daga cikin rubuce-rubucen. Babu asusun da za a bude, babu bibiya, babu talla, kuma babu abin da ake sayarwa. Shafin yana bin dokar sirri ta Turai (GDPR) ga duk baƙi, a duk inda suke a duniya.
+Jonathan McCallum ne ke tafiyar da wannan shafin, yana zaune a Ƙasar Basque. Karamin shafi ne na kansa: rubuce-rubuce, da kuma hira da ke amsa daga cikin rubuce-rubucen. Babu asusun da za a bude, babu bibiya, babu talla, kuma babu abin da ake sayarwa. Shafin yana bin dokar sirri ta Turai (GDPR) ga duk baƙi, a duk inda suke a duniya.
 
 Idan kana bukatar tambaya game da wannan shafin, ko game da bayanan ka, ka rubuta wa Jonathan ta hanyar <a href="#" data-contact-email data-contact-email-text>Ka aiko mini da imel</a>. Haka kuma za ka iya aika masa saƙo a [Instagram](https://www.instagram.com/jonamccallum) ko [Threads](https://www.threads.com/@jonamccallum).
 
